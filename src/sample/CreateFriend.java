@@ -1,5 +1,5 @@
 /* Unit 7 Improving the Friends Book Create Friend class
-By: Monica Bacatan
+By: Monica 
  */
 
 package sample;
